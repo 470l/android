@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/share_google"
+        android:icon="@drawable/ic_android"
+        android:title="@string/share_with_google"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/share_chrome"
+        android:icon="@drawable/ic_account_circle"
+        android:title="@string/share_with_chrome"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/share_i_search"
+        android:icon="@drawable/ic_baseline_arrow"
+        android:title="@string/share_with_isearch"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/activity_one"
+        android:title="@string/main_screen" />
+    <item android:id="@+id/activity_two"
+        android:title="@string/second_screen" />
+    <item android:id="@+id/activity_three"
+        android:title="@string/third_screen" />
+</menu>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/option1"
+        android:title="Enable Save In File"
+        android:icon="@drawable/ic_baseline_exit_to_app"/>
+    <item
+        android:id="@+id/option2"
+        android:checkable="true"
+        android:title="Share To GDrive" />
+    <item
+        android:id="@+id/option3"
+        android:checkable="true"
+        android:checked="true"
+        android:enabled="true"
+        android:title="Background Process" />
+    <item
+        android:id="@+id/option4"
+        android:enabled="false"
+        android:title="Save In File" />
+
+    <item
+        android:id="@+id/option5"
+        android:title="Share To">
+        <menu>
+            <item
+                android:id="@+id/option51"
+                android:title="Google"
+                android:icon="@drawable/ic_baseline_add_"
+                />
+            <item
+                android:id="@+id/option52"
+                android:title="Laylay"
+                android:icon="@drawable/ic_baseline_add_"
+                />
+
+            <item
+                android:id="@+id/option53"
+                android:enabled="false"
+                android:title="Youtube"
+                android:icon="@drawable/ic_baseline_add_"
+                />
+
+        </menu>
+    </item>
+</menu>

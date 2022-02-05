@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">First Screen</string>
+    <string name="long_press_me">Long press me!</string>
+    <string name="long_click_on_me">Long Click On Me</string>
+    <string name="share_with_chrome">Share With Chrome</string>
+    <string name="share_with_google">Share With Google</string>
+    <string name="share_with_isearch">Share With ISearch</string>
+    <string name="show_popup_menu">Show Popup Menu</string>
+    <string name="main_screen">Main Screen</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="go_to_another_screen">Go To Another Screen</string>
+    <string name="this_is_main_screen">This Is Main Screen</string>
+    <string name="this_is_second_screen">This Is Second Screen</string>
+    <string name="this_is_third_screen">This Is Third Screen</string>
+    <string name="context_menu_on_text_view_with_header">Context Menu On Text View With Header</string>
+</resources>
