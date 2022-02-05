@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //Name
+        //Name Ahmad
         //Tell the system this button is long press button for context menu
         Button contextButton = findViewById(R.id.context_menu_button);
         registerForContextMenu(contextButton);
